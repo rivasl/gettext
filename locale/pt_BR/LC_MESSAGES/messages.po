@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <luis.rivas.h@gmail.com>, 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-01 12:22-0430\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <Luis Rivas>\n"
+"Language-Team: LANGUAGE <luis.rivas.h@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/www/gettext/gettext/index.php:60
+msgid "Select your language:"
+msgstr "Selecciona tu lenguaje"
+
+#: /var/www/gettext/gettext/index.php:62
+msgid "Spanish"
+msgstr "Español"
+
+#: /var/www/gettext/gettext/index.php:63
+msgid "English"
+msgstr "Inglés"
+
+#: /var/www/gettext/gettext/index.php:64
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: /var/www/gettext/gettext
+msgid "Arabic"
+msgstr "Árabe"
+
+#: /var/www/gettext/gettext/index.php:70
+msgid "Hello World"
+msgstr "Olá Mundo"
+
+msgid "You have %d message"
+msgid_plural "You have %d messages"
+msgstr[0] "Você tem %d mensagem"
+msgstr[1] "Você tem %d mensagens"
